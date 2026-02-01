@@ -12,9 +12,9 @@ gcc ders_dagitimi.c -o ders_dagitimi
 ./ders_dagitimi
 
 **Çıktı**
-Program çalıştırıldığında:
-Her hocanın aldığı dersler
-Hocaların toplam yükleri
-Ders → Hoca eşleşmeleri
+Program çalıştırıldığında: <br>
+Her hocanın aldığı dersler <br>
+Hocaların toplam yükleri <br>
+Ders → Hoca eşleşmeleri <br>
 
 ekrana yazdırılır.
